@@ -46,7 +46,7 @@ classes = []
 with open("coco.names", "r") as f:
     classes = f.read().splitlines()
 
-# From line 51 to 62 we are applying foregrounding and segmentation for our frames
+# From line 51 to 62 we are pre-processing the frames
 while True:
     ret, frame = cap.read()
     height, width, _ = frame.shape
