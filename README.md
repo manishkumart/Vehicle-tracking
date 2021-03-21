@@ -1,4 +1,4 @@
-# Vehicle-tracking and counting with Yolov3-Tiny and openCV
+# Vehicle classifying and counting with Yolov3-Tiny and openCV
 
 https://user-images.githubusercontent.com/37763863/111904111-29a8e380-8a6b-11eb-8287-35c1b5d72592.mov
 
